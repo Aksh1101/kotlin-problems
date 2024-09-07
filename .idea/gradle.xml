@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/I like Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Identifier" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Name of an entry point" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/The Hello World program" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing first program/Your name" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
