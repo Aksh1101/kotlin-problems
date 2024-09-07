@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: '"kotlin"'
+  - text: '"java"'
+  - text: '"s3"'
+  - text: '"s2"'
+  - text: '"scala"'
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4378#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 07 Sep 2024 08:21:36 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: false
