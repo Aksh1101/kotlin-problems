@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,6 +10,25 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Find the correct comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The countdown" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment some lines" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Age whispers, but labels shout" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Legitimate literals" />
+            <option value="$PROJECT_DIR$/Topics/Data types/The form of declaration without type inference" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Think as compiler" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Types on parade" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Valid declarations" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/From 0 to 9" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Printing texts" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Correct description about variables" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring an immutable variable" />

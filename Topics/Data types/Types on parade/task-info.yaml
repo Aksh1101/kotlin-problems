@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<pre><code class=\"language-kotlin\">val number: Int = 20</code></pre>"
+  - text: <pre><code class="language-kotlin">val greeting = "Good morning"</code></pre>
+  - text: <pre><code class="language-kotlin">var size = "Medium"</code></pre>
+  - text: "<pre><code class=\"language-kotlin\">var length: Int = 100</code></pre>"
+  - text: <pre><code class="language-kotlin">val temp = 30.5</code></pre>
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/47207#comment
+status: Solved
+record: -1
+local_check: false
