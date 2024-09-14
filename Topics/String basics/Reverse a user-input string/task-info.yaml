@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41177#comment
+status: Solved
+feedback:
+  message: |-
+    <html>You've used all 7 of your lives for today.
+    Use this pause to revisit theory, and we'll see you tomorrow for more practice!</html>
+  time: "Sat, 14 Sep 2024 18:37:06 UTC"
+record: -1
+submission_language: kotlin
