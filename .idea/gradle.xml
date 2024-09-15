@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Match operations and definitions" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Program a Boolean function" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comments/Find the correct comment" />
             <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
             <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comment" />
@@ -35,8 +38,11 @@
             <option value="$PROJECT_DIR$/Topics/Standard output/Printing texts" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Tic-Tac-Toe" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
             <option value="$PROJECT_DIR$/Topics/String basics/Reverse a user-input string" />
             <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Generating custom notification message for user" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Correct description about variables" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring an immutable variable" />
