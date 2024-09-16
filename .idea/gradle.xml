@@ -10,8 +10,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Declaring boolean variables" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Decoding a specific user command" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Determine integer truthiness" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Match operations and definitions" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Program a Boolean function" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/The OR operator" />
             <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Theory" />
             <option value="$PROJECT_DIR$/Topics/Comments/Find the correct comment" />
             <option value="$PROJECT_DIR$/Topics/Comments/Groups of comments" />
